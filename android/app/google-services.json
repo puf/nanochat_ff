@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942941060459",
+    "project_id": "nanochat-20241022-mw8qu9",
+    "storage_bucket": "nanochat-20241022-mw8qu9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942941060459:android:0f841eef6e86cf4b2a202e",
+        "android_client_info": {
+          "package_name": "com.mycompany.nanochat20241022"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_bXni81PruDjBgYghJtM4M29QiH_1lzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
